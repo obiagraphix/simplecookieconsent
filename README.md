@@ -1,6 +1,6 @@
 # simplecookieconsent
 Free and simple JavaScript solution to alert users about the use of cookies on your website.
-
+<img src="https://github.com/obiagraphix/simplecookieconsent/blob/master/cookieConsentImage.jpg?raw=true" />
 # Overview
 This simple template is a popup triggered on user entery and can be deployed on any web property where you want to comply with the EU Cookie Law.
 
@@ -17,3 +17,4 @@ This simple template is a popup triggered on user entery and can be deployed on 
 # How to use:
 To use this template, edit the above configuration fields and add the "simpleCookieConsent.js" in the header of your site. 
 
+<img src="https://github.com/obiagraphix/simplecookieconsent/blob/master/cookieConsentImage.jpg?raw=true" />
