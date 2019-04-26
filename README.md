@@ -1,4 +1,4 @@
-# simplecookieconsent
+# simpleCookieConsent
 Free and simple JavaScript solution to alert users about the use of cookies on your website.
 <img src="https://github.com/obiagraphix/simplecookieconsent/blob/master/cookieConsentImage.jpg?raw=true" />
 # Overview
