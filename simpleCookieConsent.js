@@ -12,7 +12,7 @@
         ccLearnMoreUrl: "https://www.pepboys.com",
         // Consent button text.
         ccButtonText: "Got It",
-        ccCookeExpireDate: 30,
+        ccCookeExpireDate: 30
         // =========================== END USER DEFINED CONFIGURATION ===========================
     };
 
