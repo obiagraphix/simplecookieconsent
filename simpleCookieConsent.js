@@ -9,7 +9,7 @@
         // Use this to change the link text.
         ccLearnMoreLinkText: "Cookie Policy",
         // Set link URL
-        ccLearnMoreUrl: "https://www.pepboys.com",
+        ccLearnMoreUrl: "https://www.mysite.com",
         // Consent button text.
         ccButtonText: "Got It",
         ccCookeExpireDate: 30
